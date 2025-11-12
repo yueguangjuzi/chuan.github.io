@@ -252,7 +252,7 @@ class RomanticPopup {
         
         endDiv.innerHTML = `
             <h1 style="font-size: 3rem; margin-bottom: 1rem; background: linear-gradient(135deg, #ff1493 0%, #ff69b4 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">💝</h1>
-            <p style="font-size: 1.5rem; color: #c41e3a; font-weight: 600;">爱你，永远 ❤️</p>
+            <p style="font-size: 1.5rem; color: #c41e3a; font-weight: 600;">永远开心</p>
             <button onclick="location.reload()" style="
                 margin-top: 2rem;
                 padding: 0.8rem 2rem;
